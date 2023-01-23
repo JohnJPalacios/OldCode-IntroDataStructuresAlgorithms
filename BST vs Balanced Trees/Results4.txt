@@ -1,0 +1,18 @@
+/******************************BEGIN_REPORT***************************/
+DATA_SET_SIZE = 400000 seven character words using string class
+Binary Search Tree
+Insert sorted words: 1.639 seconds
+Search sorted words: 1.603 seconds
+Insert unsorted words: 1.657 seconds
+Search unsorted words: 1.616 seconds
+AVL Tree
+Insert sorted words: 0.364 seconds
+Search sorted words: 0.35 seconds
+Insert unsorted words: 0.362 seconds
+Search unsorted words: 0.35 seconds
+2-3 Tree
+Insert sorted words: 4.127 seconds
+Search sorted words: 4.12 seconds
+Insert unsorted words: 4.171 seconds
+Search unsorted words: 4.121 seconds
+*******************END_OF_REPORT**********************
